@@ -1,6 +1,6 @@
 # Digital Image Processing (EE596)
 
-In this repository, some of my Machine Learning 1 course projects (EE596), are uploaded.  
+In this repository, some of my Machine Learning I course projects (EE596), are uploaded.  
 
 # Copyright statement (06/13/2020): 
 
